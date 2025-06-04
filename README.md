@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**roomeroo/roomeroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ¡Hola! Soy Adrián.
 
-Here are some ideas to get you started:
+¡Bienvenido/a a mi perfil de GitHub! Soy un desarrollador apasionado por la tecnología y el aprendizje y evolución constante.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mí:
+
+- Actualmente estoy trabajando en **Properly SL.**
+- Estoy aprendiendo **Python**, **Inteligencia Artificial** y **Angular**.
+- Mi objetivo este año: **aprender Angular a fondo**.
+- Estoy abierto a participar en **hackathons** y colaborar en proyectos interesantes.
+- ### Tecnologías que uso habitualmente:
+  - **Java**
+  - **Jmix**
+  - **PostgreSQL**
+  - **Postman**
+
+## Contácta conmigo:
+- Linkedln: [adrian-romero](https://www.linkedin.com/in/adrian-romero-627b6b324/)
+- Email: [roomeroo05@gmail.com](mailto:roomeroo05@gmail.com)
+- numero
+
+## Mis stats de Github
+
+![roomeroo's Stats](https://github-readme-stats.vercel.app/api?username=roomeroo&theme=dracula&show_icons=true&hide_border=true&count_private=false)
+![roomeroo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=roomeroo&theme=dracula&hide_border=false)
+![roomeroo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roomeroo&theme=dracula&show_icons=true&hide_border=false&layout=compact)
