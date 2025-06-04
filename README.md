@@ -1,7 +1,7 @@
 
 # ¡Hola! Soy Adrián.
 
-¡Bienvenido/a a mi perfil de GitHub! Soy un desarrollador apasionado por la tecnología y el aprendizje y evolución constante.
+¡Bienvenido/a a mi perfil de GitHub! Soy un desarrollador apasionado por la tecnología y el aprendizaje constante.
 
 ## Sobre mí:
 
