@@ -5,19 +5,18 @@
 
 ## Sobre mí:
 
-- Actualmente estoy trabajando en **Properly SL.**
+- Actualmente estoy estudiando 2ºDAM y Certificado de aplicaciones web.
 - Estoy aprendiendo **Python**, **Inteligencia Artificial** y **Angular**.
 - Mi objetivo este año: **aprender Angular a fondo**.
 - Estoy abierto a participar en **hackathons** y colaborar en proyectos interesantes.
 - ### Tecnologías que uso habitualmente:
-  - **Java**
-  - **Jmix**
-  - **PostgreSQL**
-  - **Postman**
+  - **TypeScript**
+  - **Kotlin**
+  - **Python**
 
 ## Contácta conmigo:
-- Linkedln: [adrian-romero](https://www.linkedin.com/in/adrian-romero-627b6b324/)
-- Email: [roomeroo05@gmail.com](mailto:roomeroo05@gmail.com)
+- Linkedln: [adrian-romero](https://www.linkedin.com/in/adrian-romero-maldonado-677b35372/)
+- Email: [adrian.romero.dev@gmail.com](mailto:adrian.romero.dev@gmail.com)
 
 ## Mis stats de Github
 
